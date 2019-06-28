@@ -1,62 +1,62 @@
 [
     {
         "id":1,
-        "image": "./Assets/images/blackpanter.jpg",
+        "image": "https://raw.githubusercontent.com/csvernon/Clicky-Game/master/src/Assets/images/blackpanther.jpg",
         "clicked": false
     },
     {
         "id":2,
-        "image": "./Assets/images/blackwidow.jpg",
+        "image": "https://github.com/csvernon/Clicky-Game/blob/master/src/Assets/images/blackwidow.jpg?raw=true",
         "clicked": false
     },
     {
         "id":3,
-        "image": "./Assets/images/captainamerica.jpg",
+        "image": "https://github.com/csvernon/Clicky-Game/blob/master/src/Assets/images/captainamerica.jpg?raw=true",
         "clicked": false
     },
     {
         "id":4,
-        "image": "./Assets/images/gamora.jpg",
+        "image": "https://github.com/csvernon/Clicky-Game/blob/master/src/Assets/images/drax.jpg?raw=true",
         "clicked": false
     },
     {
         "id":5,
-        "image": "./Assets/images/hulk.jpg",
+        "image": "https://github.com/csvernon/Clicky-Game/blob/master/src/Assets/images/gamora.jpg?raw=true",
         "clicked": false
     },
     {
         "id":6,
-        "image": "./Assets/images/ironman.jpg",
+        "image": "https://github.com/csvernon/Clicky-Game/blob/master/src/Assets/images/hawkeye.jpg?raw=true",
         "clicked": false
     },
     {
         "id":7,
-        "image": "./Assets/images/spiderman.jpg",
+        "image": "https://github.com/csvernon/Clicky-Game/blob/master/src/Assets/images/hulk.jpeg?raw=true",
         "clicked": false
     },
     {
         "id":8,
-        "image": "./Assets/images/starlord.jpg",
+        "image": "https://github.com/csvernon/Clicky-Game/blob/master/src/Assets/images/ironman.jpg?raw=true",
         "clicked": false
     },
     {
         "id":9,
-        "image": "./Assets/images/thanos.jpg",
+        "image": "https://github.com/csvernon/Clicky-Game/blob/master/src/Assets/images/spiderman.jpg?raw=true",
         "clicked": false
     },
     {
         "id":10,
-        "image": "./Assets/images/thor.jpg",
+        "image": "https://github.com/csvernon/Clicky-Game/blob/master/src/Assets/images/starlord.png?raw=true",
         "clicked": false
     },
     {
         "id":11,
-        "image": "./Assets/images/drax.jpg",
+        "image": "https://github.com/csvernon/Clicky-Game/blob/master/src/Assets/images/thanos.jpg?raw=true",
         "clicked": false
     },
     {
         "id":12,
-        "image": "./Assets/images/hawkeye.png",
+        "image": "https://github.com/csvernon/Clicky-Game/blob/master/src/Assets/images/thor.png?raw=true",
         "clicked": false
     }
 ]
